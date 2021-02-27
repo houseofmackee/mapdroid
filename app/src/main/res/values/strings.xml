@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">mapdroid</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoibWFja2VlIiwiYSI6ImNrbG10cHR1eTBjbGQydW14eGR0ZmQ3dmwifQ.Q1BUU7Aq9l3Uwx7uVjdq9g</string>
+</resources>
